@@ -1,0 +1,31 @@
+_repo: Experiments-upon-magnesia-alba-Quicklime-and-some-other-Alcaline-Substances_24591
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Black, Joseph
+    birthdate: 1728
+    deathdate: 1799
+    gutenberg_agent_id: '26600'
+    url: http://www.gutenberg.org/2009/agents/26600
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Black
+description: ''
+gutenberg_bookshelf: Chemistry
+gutenberg_issued: '2008-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alkalies'
+- !lcsh 'Chemistry -- Early works to 1800'
+- !lcc 'QD'
+- !lcsh 'Carbon dioxide'
+- !lcsh 'Phlogiston'
+title: Experiments upon magnesia alba, Quicklime, and some other Alcaline Substances
+url: http://www.gutenberg.org/ebooks/24591
